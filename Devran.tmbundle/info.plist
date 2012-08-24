@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Devran</string>
+	<key>ordering</key>
+	<array>
+		<string>68B79EAB-D06B-4480-A062-5557AFE348F8</string>
+		<string>2264F376-03F3-4A24-BB31-8555FBF27080</string>
+		<string>F2A9F5D4-E0B4-465F-BD82-80C364241BB0</string>
+		<string>7364EF97-DEA9-4E71-BC3C-F458161045DA</string>
+	</array>
+	<key>uuid</key>
+	<string>5E7CBA8E-8EEC-4518-9004-38BAFEE3C230</string>
+</dict>
+</plist>
